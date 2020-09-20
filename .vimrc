@@ -5,7 +5,7 @@ set expandtab
 set ai
 set number
 set hlsearch
-set ruler
 set paste
+set ruler
 highlight Comment ctermfg=green
 
